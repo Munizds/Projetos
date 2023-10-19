@@ -1,0 +1,56 @@
+body{
+    display: flex;
+    background: url(/images/ei17fev20box019-carnaval-c3-ilustraanamatsusaki-gif.gif);
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.central{
+    background: url(/images/plano-de-volta-ao-fundo-da-escola-com-material-escolar_23-2149452368.png);
+    width: 400px;
+    height: 550px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 20px;
+}
+
+.central input{
+    background-color: aqua;
+    color: rgb(0, 0, 164);
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    text-align: center;
+    border-radius: 20px;
+    font-style: italic;
+}
+
+.central button{
+    cursor: pointer;
+    background-color: aqua;
+    color: blue;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 20px;
+    padding: 10px 10px;
+    transition: 0.5s;
+}
+
+.central h1{
+    color: blue;
+    border: 5px;
+    border-radius: 10px;
+    padding: 5px 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+.central p{
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
